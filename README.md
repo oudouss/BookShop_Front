@@ -1,4 +1,4 @@
-Symfony Shop Frontend
+Symfony BookShop Frontend
 ==========
 
 This repository contains the code for The BookShop (Frontend Client) with ReactJS.
