@@ -10,7 +10,7 @@ Getting started
 **Cloning the repository**
 
 ```
-git clone https://github.com/HalloumiElmehdi/BookShop_Front.git
+git clone https://github.com/oudouss/BookShop_Front.git
 cd BookShop_Frontend
 ```
 
